@@ -23,7 +23,7 @@ sudo mkdir tor_data
 ```
 ./run.sh
 ```
-The script will pull the image from the Docker Hub
+The script will pull the image from the Docker Hub and run it. Container is configured to auto restart with the system.
 
 # Advanced uses
 Alternatively you can edit the `tor_config_relay.conf` file and build the image yourself:
