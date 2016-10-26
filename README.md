@@ -1,5 +1,5 @@
 # docker-tor-relay
-A Docker Image for a Tor relay node
+A Docker Image for a Tor relay node, image is hosted on Docker Hub: https://hub.docker.com/r/wlkx/docker-tor-relay/
 
 # Tutorial
 
